@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise_MarkupCompile.cache
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise_MarkupCompile.lref
+C:\Users\admin\source\repos\DBExercise\DBExercise\bin\Debug\DBExercise.exe.config
+C:\Users\admin\source\repos\DBExercise\DBExercise\bin\Debug\DBExercise.exe
+C:\Users\admin\source\repos\DBExercise\DBExercise\bin\Debug\DBExercise.pdb
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.g.resources
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.Properties.Resources.resources
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.exe
+C:\Users\admin\source\repos\DBExercise\DBExercise\obj\Debug\DBExercise.pdb
